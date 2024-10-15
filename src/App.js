@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import './App.css'; // Import the CSS for crazy design
+import './App.css'; 
 
 function App() {
   const [monthlyInvestment, setMonthlyInvestment] = useState('');
